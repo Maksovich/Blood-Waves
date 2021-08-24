@@ -1,6 +1,6 @@
 # Blood Waves (ID3233640)
 
-EN: The modification adds 1 000 000 to the player's account, 100 skill points and weapon upgrades.
+EN: Modification adds 1 000 000 to the player's account, 100 skill points and weapon upgrades.
 
 #### How to use:
 
